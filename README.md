@@ -1,15 +1,16 @@
 # CppProjectX
-This is a project designed for composing music with your numbered music notation.
+This is a project designed for composing music with your numbered music notation.  
+Click [Here](#001) to a Chinese Version.   
 
-Project Name:  
+## Project Name:  
 i MusicNote  
-## How This Works？
+### How This Works？
 This is a program mainly programmed in C++ and using Qt 5 as UI.  
-## What Can I do on this application?
+### What Can I do on this application?
 You can input your simplified Music notation according to the international standard of music notation.  
 Click "Play" ,and the rest is for us.  
-Click [Here](#001) to a Chinese Version.  
-
+ 
+-------
 
 
 ### 项目名称： {#001} 
