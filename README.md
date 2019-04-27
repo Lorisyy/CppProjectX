@@ -8,7 +8,7 @@ This is a program mainly programmed in C++ and using Qt 5 as UI.
 ## What Can I do on this application?
 You can input your simplified Music notation according to the international standard of music notation.  
 Click "Play" ,and the rest is for us.  
-Click [Here]{#001} to a Chinese Version.  
+Click [Here](#001) to a Chinese Version.  
 
 
 
